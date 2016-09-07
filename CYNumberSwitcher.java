@@ -16,7 +16,7 @@ import com.fairytale110.mycustomviews.R;
  * Creat date   2016/9/5 16:55
  * Copy Right   www.xkyiliao.com
  * function    数字 切换控件 继承 android.widget.TextSwitcher
- * me.chunyu.Pedometer.Widget.CYNumberSwitcher
+ * 
  */
 public class CYNumberSwitcher extends TextSwitcher implements ViewSwitcher.ViewFactory, CYAnimator {
 
