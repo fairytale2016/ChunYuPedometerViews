@@ -19,7 +19,6 @@ import com.fairytale110.mycustomviews.R;
  * Creat date   2016/9/5 16:54
  * Copy Right   www.xkyiliao.com
  * function  环形 刻度计数器
- * me.chunyu.Pedometer.Widget.PedometerArcView
  */
 @SuppressWarnings("all")
 public class PedometerArcView extends RelativeLayout implements CYAnimator {
